@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.pptx
+*.utf-8
+create_corpus.py
+lda1.py
+lda3.py
+lda_server.py
+kakaku_filtered.txt
